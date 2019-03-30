@@ -1,0 +1,23 @@
+{
+  "name": "http-ban-dos",
+  "version": "1.0.0",
+  "description": "block http dos attack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngahane/Http-Ban-DOS.git"
+  },
+  "keywords": [
+    "http",
+    "dos"
+  ],
+  "author": "NGAHANE STEVE WILLIAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngahane/Http-Ban-DOS/issues"
+  },
+  "homepage": "https://github.com/ngahane/Http-Ban-DOS#readme"
+}
